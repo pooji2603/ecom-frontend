@@ -10,3 +10,4 @@ Currently, two official plugins are available:
 "# gfe" 
 "# ecom-frontend" 
 "# ecom-frontend" 
+"# docker-ecommerce-backend" 
